@@ -1,0 +1,126 @@
+
+.uCover {
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+    position: fixed;
+}
+.u {
+    z-index: 4;
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    left: 2%;
+    top: -580px;
+}
+.nuCover {
+    display: none;
+}
+.nu {
+    display: none;
+}
+#wowowo {
+    width: 100%;
+    height: 600px;
+    overflow: hidden;
+}
+#previewImage {
+    /* vertical-align: middle; */
+    margin: 0 auto;
+    margin-top: 30px;
+    width: fit-content;
+}
+#previewImage>img {
+    margin: 0px auto;
+    margin-left: 530px;
+}
+
+.ttt {
+    width: 400px;
+    margin: 5px;
+    height: 260px !important;
+}
+
+.ty {
+    margin-top: 6px;
+}
+.ty>button:nth-child(2) {
+    margin-left: 5px;
+}
+#threegirls {
+    position: relative;
+}
+
+#midd {
+    position: absolute;
+    top: 0;
+    left: 361.1px;
+}
+.jwang3 {
+    width: 332px;
+    height: 430px;
+    margin-top: 20px;
+}
+#ppp {
+    width: 100%;
+}
+.iii {
+    width: 330px;
+    height: 330px;
+}
+.zy {
+    height: 528px;
+    width: 568px;
+}
+.mw {
+    width: 50%;
+    margin-top: -230px;
+}
+.zx {
+    width: 830px;
+    height: 820px;
+}
+.zx:nth-child(3) {
+    height: 1130px;
+}
+.zx:nth-child(6) {
+    height: 510px;
+    margin-top: -470px;
+}
+.zxgirl {
+    margin-top: 50px;
+}
+.ym {
+    width: 830px;
+    height: 900px;
+}
+
+.xa {
+    width: 828px;
+    height: 532px;
+}
+.xa:nth-child(2) {
+    width: 1500px;
+    margin-right: -800px;
+}
+#newImage {
+    width: 500px;
+    margin-left: 570px;
+    margin-top: 80px;
+}
+#xaol {
+    margin-left: 170px;
+}
+#wegame {
+    background-image: url(https://xa.games.wanmei.com/images/cover20200715/page3.jpg);
+    position: relative;
+}
+
+#wegame>img {
+    position: absolute;
+    left: 0px;
+    top: -1120px;
+    left: -400px;
+}

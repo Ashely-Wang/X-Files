@@ -1,0 +1,129 @@
+.monster {
+    width: 96%;
+    margin: 10px auto;
+}
+.sj-m {
+    display: flex;
+    margin-bottom: 10px;
+    /* flex-wrap: wrap; */
+    flex-flow:column wrap;
+    height: 120vh;
+}
+.mons .card-text, .mons .card-title, .mons .movieSource, .mons span {
+    color: antiquewhite;
+}
+.mons .movieSource>a {
+    color: aquamarine;
+}
+.sj-m img {
+    /* width: 300px; */
+    /* height: 80%; */
+    margin-left: 10px;
+    max-height: 80%;
+    margin-top: 6px;
+    width: calc(100%/3 - 20px);
+}
+
+
+.mons {
+    background-image: url(https://w.wallhaven.cc/full/48/wallhaven-48k57j.jpg);
+    /* transform: translateY(); */
+    transition: all 1.5s linear 0s;
+}
+.chf {
+    position: relative;
+    /* color: 	#DC143C; */
+    /* background-color: rgba(208,208,208,0.8) !important; */
+}
+
+
+.oooo {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+
+.pd {
+    width: 96%;
+    margin: 20px auto; 
+}
+
+.pdbox {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.tttt {
+    width: 286px !important;
+    /* height: 180px; */
+    margin-bottom: 12px;
+    margin-left: 12px;
+}
+
+.tttt img {
+    width: 284px !important;
+    height: 213px !important;
+}
+
+.series {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604463247625&di=543623d3b86c47a5b5ba590a0ac03e64&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fadaf2edda3cc7cd9b7883ee13901213fb80e9164.jpg);
+}
+
+#eq {
+    color: antiquewhite;
+}
+
+.tse {
+    color: antiquewhite;
+}
+
+.tse .card {
+    width: 49.1%;
+    margin-left: 12px;
+    height: 321px;
+    overflow: hidden;
+}
+
+
+.tse .card-body{
+    color: black;
+}
+
+
+.seri .md3 {
+    max-width: 540px;
+}
+
+.seri {
+    display: flex;
+    flex-wrap: wrap;
+}
+.seri .card-text {
+    font-size: 13.8px;
+}
+.seri .card img {
+    width: 100%;
+    height: 100%;
+}
+.ufo {
+    margin-top: 5px;
+}
+.comments img {
+    width: 81px;
+    height: 81px;
+}
+
+
+.hid {
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    top: 6.5px;
+    right: 16.8px;
+    cursor: pointer;
+}

@@ -1,0 +1,99 @@
+.hsroot {
+    position: relative;
+    background-image: url(https://w.wallhaven.cc/full/3k/wallhaven-3k25w3.jpg);
+}
+.hsc:nth-child(1)>img {
+    border: 0.4px solid antiquewhite;
+    width: 641px;
+    margin-top: 1px;
+}
+.hsc:nth-child(1) {
+    margin-top: 14px;
+    /* display: flex;
+    flex-direction: column; */
+}
+.hsc:nth-child(2)>div {
+    /* position: absolute; */
+    margin-left: 12px;
+    width: 995px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FF6347;
+}
+
+
+
+.tit {
+    position: relative;
+}
+.tit>.kl {
+    position: absolute;
+    top: -12px;
+    right: 0;
+}
+.kl>img {
+    width: 123px;
+    height: 123px;
+}
+.hso {
+    position: relative;
+    display: flex;
+}
+.klh {
+    color: #FF6347;
+    font-size: 23px;
+}
+.klh>img {
+    height: 85px;
+}
+.hsc:nth-child(1)>.card {
+    width: 640px;
+    margin-top: 1px;
+    margin-bottom: 0px !important;
+    max-height: 214px;
+}
+.hsc .card img {
+    height: 100%;
+}
+
+.hsc .card-body h4 {
+    font-weight: 600;
+    cursor: pointer;
+}
+.hsc:nth-child(1) .card-body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.hsc:nth-child(1) .card-body .card-text {
+    font-size: 14px;
+}
+/* ################################################################# */
+.ksp {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    width: 100%;
+}
+.ksp iframe {
+    margin-left: 10px;
+    margin-top: 8px;
+    width: 43.8%;
+    height: 450px;
+    
+}
+.mksp {
+    margin-left: 10px;
+    width: 60px;
+    /* background-color: orange; */
+    font-size: 36px;
+    text-align: center;
+    line-height: 420px;
+    color: antiquewhite;
+}
+.mksp svg {
+    cursor: pointer;
+}
+#HorrorPage {
+    background-image: url(https://w.wallhaven.cc/full/3k/wallhaven-3k25w3.jpg);
+}

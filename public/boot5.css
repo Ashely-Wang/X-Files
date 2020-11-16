@@ -1,0 +1,90 @@
+.mhfbox {
+    width: 96%;
+    margin: 10px auto;
+}
+.mhfbox button {
+    margin-left: 5px;
+}
+#multiCollapseExample2 {
+    /* width: 100% !important; */
+    /* left: 0px; */
+}
+.collapse {
+    margin-top: 8px;
+}
+.collapse>.card-body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* background-color: black; */
+    /* background-image: url(); */
+}
+.hkhf {
+    width: 128px;
+    height: 128px;
+}
+
+.hk {
+    margin-top: 10px;
+    width: 45.8%;
+    margin-left: 22px;
+    /* color: bisque; */
+}
+.hk img {
+    width: 140px;
+    height: 156px;
+}
+.hk p {
+    margin-bottom: 0px;
+    font-size: 14.6px;
+}
+.hk a {
+    text-decoration: none;
+    color: cadetblue;
+}
+.hk .alert, .hk .jj {
+    margin-top: 6.5px;
+}
+.jsss {
+    display: flex;
+    position: relative;
+}
+.jsss>div {
+    width: 48.4%;
+    /* left: 20px; */
+    margin-left: 20px;
+    /* background-color: brown; */
+    /* height: 800px; */
+}
+.jsss img {
+    width: 100%;
+    height: 100%;
+}
+.jsc p {
+    margin-bottom: 0.5px;
+}
+.jsc h5 {
+    margin-bottom: 15px;
+}
+.jsc {
+    padding-top: 5px !important;
+}
+.jsc .card-text {
+    font-size: 14px;
+}
+
+
+.changeGroup {
+    display: block;
+    width: 80px;
+    height: 80px;
+    border-radius: 50% !important;
+    font-size: 24px !important;
+    /* position: absolute; */
+    /* left: 50%; */
+    /* bottom: 10px; */
+    margin: 5px auto;
+    margin-left: 728px !important;
+    /* padding-bottom: 18px; */
+    /* line-height: 70px; */
+}
